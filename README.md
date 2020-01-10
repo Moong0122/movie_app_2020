@@ -1,7 +1,7 @@
 # Movie App 2020
 React JS Fundamentals Course (using React)
 
-## What is React?
+## What is React? ⚛️
 https://github.com/facebook/react
 
 ## Develop Environments
