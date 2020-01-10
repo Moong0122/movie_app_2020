@@ -14,7 +14,7 @@ class App extends React.Component {
         data: { movies }
       }
     } = await axios.get(
-      "http://yts-proxy.now.sh/list_movies.json?sort_by=rating"
+      "https://yts-proxy.now.sh/list_movies.json?sort_by=rating"
     );
     this.setState({ movies, isLoading: false });
   };
@@ -27,7 +27,7 @@ class App extends React.Component {
       <section className="container">
         {isLoading ? (
           <div className="loader">
-            <span className="loader_text">Loading...</span>
+            <span className="loader__text">Loading...</span>
           </div>
         ) : (
           <div className="movies">
