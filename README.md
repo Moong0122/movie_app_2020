@@ -1,5 +1,5 @@
 # Movie App 2020
-React JS Fundamentals Course (using React)
+React JS Fundamentals Course
 
 ## What is React? ⚛️
 https://github.com/facebook/react
