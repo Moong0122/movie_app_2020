@@ -1,4 +1,4 @@
-# Movie App 2020
+# Movie App 2020 🎬
 React JS Fundamentals Course
 
 ## What is React? ⚛️
